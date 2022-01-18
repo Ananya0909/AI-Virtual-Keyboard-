@@ -1,5 +1,5 @@
 # AI Virtual Keyboard
-Using OpenCV and MediaPipe
+A very simple virtual keyboard that works with gestures using OpenCV
 
 
 <img src="view.jpeg" width="1500">
