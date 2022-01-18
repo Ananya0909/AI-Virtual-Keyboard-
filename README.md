@@ -2,4 +2,4 @@
 Using OpenCV and MediaPipe
 
 #Outcome
-<img src="view.png" width="500">
+<img src="view.jpeg" width="500">
