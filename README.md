@@ -1,2 +1,2 @@
-# AI-Virtual-Keyboard-
+# AI-Virtual-Keyboard
 Using OpenCV and MediaPipe
